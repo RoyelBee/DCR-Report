@@ -1,5 +1,5 @@
 # DCR-Report
-Highly Interactive Doctor Call Report
+Highly Interactive Doctor Call POwer BI Report
 
 ![alt text](https://github.com/RoyelBee/DCR-Report/blob/main/DCR_KPI.png)
 ![alt text](https://github.com/RoyelBee/DCR-Report/blob/main/DCR_Dashboard.png)
